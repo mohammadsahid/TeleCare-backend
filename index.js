@@ -39,7 +39,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://tele-care-backend-67vkfmu9n-sahid20.vercel.app"
+      "https://tele-care-frontend.vercel.app"
     ],
     credentials: true
   })
